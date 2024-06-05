@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<POI_in_Beijing type="root">
+	<Accommodation_Service membershipvalue=1.0>
+		<Hotel membershipvalue=1.0>
+		<Hostel membershipvalue=1.0>
+	</Accommodation_Service>
+	<Traffic membershipvalue=1.0>
+		<Airport membershipvalue=0.7>
+		<Railway_Station membershipvalue=1.0>
+		<Car_Parks membershipvalue=1.0>
+	</Traffic>
+	<Sports_and_Recreation membershipvalue=1.0>
+		<Park membershipvalue=0.7>
+		<Gymnasium membershipvalue=1.0>
+	</Sports_and_Recreation>
+	<Shopping_Services membershipvalue=1.0>
+		<Bubble_tea_shop membershipvalue=0.5>
+		<Clothes_Shop membershipvalue=1.0>
+		<Animal_Shop membershipvalue=1.0>
+		<Airport membershipvalue=0.3>
+	</Shopping_Service>
+	<Sights membershipvalue=1.0>
+		<Park membershipvalue=0.6>
+		<National_Scenic_spots membershipvalue=1.0>
+		<Provincial_Scenic_spots membershipvalue=1.0>
+	</Sights>
+	<Food_and_Beverages membershipvalue=1.0>
+		<Chinese_Restaurant membershipvalue=1.0>
+		<Western_Restaurant membershipvalue=1.0>
+		<Bubble_tea_shop membershipvalue=0.5>
+	</Food_and_Beverages>
+</POI_in_Beijing>

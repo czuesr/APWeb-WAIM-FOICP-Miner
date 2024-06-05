@@ -1,0 +1,33 @@
+{
+  "Beijing": {
+    "Accommodation_Service": {
+      "Hotel": {"membershipvalue": 1.0} ,
+      "Hostel": {"membershipvalue": 1.0}
+    },
+    "Traffic": {
+      "Airport": {"membershipvalue": 0.7},
+      "Railway_Station": {"membershipvalue": 1.0},
+      "Car_Parks": {"membershipvalue": 1.0}
+    },
+    "Sports_and_Recreation": {
+      "Park": {"membershipvalue": 0.4 },
+      "Gymnasium": {"membershipvalue": 1.0}
+    },
+    "Shopping_Service": {
+      "Bubble_tea_shop": {"membershipvalue": 0.5},
+      "Clothes_Shop": {"membershipvalue": 1.0},
+      "Animal_Shop": {"membershipvalue": 1.0},
+      "Airport": {"membershipvalue": 0.3 }
+    },
+    "Sights": {
+      "Park": {"membershipvalue": 0.6},
+      "National_Scenic_spots": {"membershipvalue": 1.0},
+      "Provincial_Scenic_spots": {"membershipvalue": 1.0}
+    },
+    "Food_and_Beverages": {
+      "Chinese_Restaurant": {"membershipvalue": 1.0},
+      "Western_Restaurant": {"membershipvalue": 1.0},
+      "Bubble_tea_shop": {"membershipvalue": 0.5}
+    }
+  }
+}
