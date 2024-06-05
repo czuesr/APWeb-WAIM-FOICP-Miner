@@ -3,7 +3,7 @@ import json
 
 class getOntology():
     def __init__(self, filename='FuzzyOntology.json'):
-        self.filename = filename
+        self.filename = 'FuzzyOntology.json'
 
     def getOntology(self):
         with open(self.filename) as f:
